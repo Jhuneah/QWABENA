@@ -7,3 +7,6 @@ for letter in word:
         cup[letter]+=1
 
 print(cup.items())
+
+import webbrowser
+webbrowser.open_new("www.google.com")
